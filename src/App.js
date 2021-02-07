@@ -6,9 +6,11 @@ function App() {
   return (
     <div className="App">
        <ul>
-         <li>fanfiki</li>
-         <li>testy</li>
-         <li>history</li>
+          <li>
+            fanfiki
+          </li>
+          <li>testy</li>
+          <li>history</li>
        </ul>
     </div>
   );
